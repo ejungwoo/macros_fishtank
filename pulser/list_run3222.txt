@@ -1,0 +1,12 @@
+/mnt/spirit/rawdata/misc/pulser/run3222/cobo00/run_3222.dat.01-06-16_10h32m04s
+/mnt/spirit/rawdata/misc/pulser/run3222/cobo01/run_3222.dat.01-06-16_10h32m05s
+/mnt/spirit/rawdata/misc/pulser/run3222/cobo02/run_3222.dat.01-06-16_10h32m06s
+/mnt/spirit/rawdata/misc/pulser/run3222/cobo03/run_3222.dat.01-06-16_10h32m06s
+/mnt/spirit/rawdata/misc/pulser/run3222/cobo04/run_3222.dat.01-06-16_10h32m07s
+/mnt/spirit/rawdata/misc/pulser/run3222/cobo05/run_3222.dat.01-06-16_10h32m07s
+/mnt/spirit/rawdata/misc/pulser/run3222/cobo06/run_3222.dat.01-06-16_10h32m11s
+/mnt/spirit/rawdata/misc/pulser/run3222/cobo07/run_3222.dat.01-06-16_10h32m11s
+/mnt/spirit/rawdata/misc/pulser/run3222/cobo08/run_3222.dat.01-06-16_10h32m12s
+/mnt/spirit/rawdata/misc/pulser/run3222/cobo09/run_3222.dat.01-06-16_10h32m13s
+/mnt/spirit/rawdata/misc/pulser/run3222/cobo10/run_3222.dat.01-06-16_10h32m13s
+/mnt/spirit/rawdata/misc/pulser/run3222/cobo11/run_3222.dat.01-06-16_10h32m14s
