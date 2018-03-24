@@ -1,0 +1,23 @@
+{
+
+  TText *p = new TText(30.,80.,"p");
+  p->SetTextColor(0);
+  p->Draw("same");
+    
+  TText *d = new TText(55.,87.,"d");
+  d->SetTextColor(0);
+  d->Draw("same");
+    
+  TText *t = new TText(80.,95.,"t");
+  t->SetTextColor(0);
+  t->Draw("same");
+    
+  TLatex *He4 = new TLatex(150.,70.,"^{4}He");
+  He4->SetTextColor(0);
+  He4->Draw("same");
+    
+  TLatex *He3 = new TLatex(110.,63.,"^{3}He");
+  He3->SetTextColor(0);
+  He3->Draw("same");
+    
+}

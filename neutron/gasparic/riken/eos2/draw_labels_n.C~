@@ -1,0 +1,13 @@
+{
+
+  int color=0;
+
+  TText *n = new TText(80.,103.,"n");
+  n->SetTextColor(color);
+  n->Draw("same");
+    
+  TLatex *g = new TLatex(150.,78.,"\gamma");
+  g->SetTextColor(color);
+  g->Draw("same");
+
+}
